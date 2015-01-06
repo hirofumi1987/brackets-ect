@@ -1,10 +1,16 @@
 {
-"name": "brackets-ect",
-"title": "ECT template syntax highlighting",
-"description": "Add syntax highlighting support for the ECT templating language (.ect).",
-"repository": {
-"type": "git",
-"url": "git@github.com:SteveMcArthur/brackets-eco.git"
-},
-"version": "0.0.1"
+  "name": "ECT Syntax Highlighter",
+  "title": "ECT template syntax highlighting",
+  "description": "Add syntax highlighting support for the ECT.",
+  "homepage": "https://github.com/hirofumi1987/brackets-ect",
+  "author": "hirofumi.i (https://github.com/hirofumi1987)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hirofumi1987/brackets-ect.git"
+  },
+  "version": "1.0.1"
 }
